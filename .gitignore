@@ -1,0 +1,17 @@
+# entorno y caché
+.venv/
+__pycache__/
+*.pyc
+
+# datos generados al usar el programa (eventos, recortes, respaldos, logs)
+data/
+*.log
+install.log
+
+# certificados HTTPS (se generan con ./certs.sh; la clave privada NUNCA se sube)
+certs/
+*.pem
+*.key
+
+# fotos para el modo simulación (no se redistribuyen)
+simulacion

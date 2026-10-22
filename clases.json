@@ -1,0 +1,54 @@
+[
+  {
+    "id": "botella_plastica",
+    "nombre": "Botella plástica",
+    "color": "#38bdf8",
+    "prompts": [
+      "a photo of a plastic bottle",
+      "a photo of a clear PET plastic water bottle",
+      "a photo of a plastic soda bottle"
+    ]
+  },
+  {
+    "id": "bidon_plastico",
+    "nombre": "Bidón plástico",
+    "color": "#a78bfa",
+    "prompts": [
+      "a photo of a plastic jerrycan",
+      "a photo of a large plastic jug with a handle",
+      "a photo of a plastic water container"
+    ]
+  },
+  {
+    "id": "envase_limpieza",
+    "nombre": "Envase de limpieza",
+    "color": "#34d399",
+    "prompts": [
+      "a photo of a plastic bottle of household cleaning product",
+      "a photo of a detergent bottle",
+      "a photo of a bleach bottle"
+    ]
+  },
+  {
+    "id": "vidrio",
+    "nombre": "Vidrio (alerta)",
+    "color": "#f87171",
+    "alerta": true,
+    "prompts": [
+      "a photo of a glass bottle",
+      "a photo of a glass jar",
+      "a photo of a wine bottle"
+    ]
+  },
+  {
+    "id": "otro",
+    "nombre": "Otro objeto",
+    "color": "#94a3b8",
+    "prompts": [
+      "a photo of an object",
+      "a photo of a metal can",
+      "a photo of a cardboard box",
+      "a photo of a hand"
+    ]
+  }
+]
